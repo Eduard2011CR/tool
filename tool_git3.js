@@ -18,7 +18,6 @@
 
 
  setTimeout(function () {
-  tt.pause();
   init();
   gsap.registerPlugin(GSDevTools);
   GSDevTools.create();
