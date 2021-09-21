@@ -19,9 +19,9 @@
 
  setTimeout(function () {
   tt.stop();
-  init();
-  gsap.registerPlugin(GSDevTools);
-  GSDevTools.create();
+//   init();
+//   gsap.registerPlugin(GSDevTools);
+//   GSDevTools.create();
  }, 1000);
 
 
